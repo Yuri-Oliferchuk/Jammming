@@ -13,7 +13,8 @@ export class SerchBar extends React.Component {
     }
     
     handleTermChange(event) {
-        this.setState({term: event.target.value})
+        this.setState({term: event.target.value});
+        this.search();
     }
 
     search() {
