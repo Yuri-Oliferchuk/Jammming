@@ -1,5 +1,6 @@
 const cliendId = '61340ded4dd2432fa0747cbb73020f8c';
-const redirectUri = 'http://localhost:3000/';
+// const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'http://jammming-yuriy.surge.sh/';
 let accessToken;
 
 
